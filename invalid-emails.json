@@ -1,0 +1,13 @@
+{
+  "domains": [
+    "gamil.com", "gmai.com", "gmail.co", "gmal.com",
+    "hotmal.com", "homail.com", "hotmail.co", "hotmial.com",
+    "yahho.com", "yaho.com", "yahoo.co",
+    "outlok.com", "outlook.co", "gamil.con", "gmai.con", "gmail.cmo", "gmal.cmo",
+    "hotmal.con", "homail.con", "hotmail.cmo", "hotmial.con",
+    "yahho.con", "yaho.con", "yahoo.cmo",
+    "outlok.con", "outlook.cmo","gmail.conm", "gmai.conm",
+    "hotmal.conm", "homail.conm", "hotmial.conm",
+    "yahho.conm", "yaho.conm", "outlok.conm"
+  ]
+}
